@@ -60,22 +60,3 @@ This Java program symbolizes a vehicle inventory application. The program includ
     ```java
     System.out.println(inventory);
     ```
-
-## Style
-
-Style files should be named `style.css`. Below is an example CSS code:
-
-```css
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 20px;
-}
-
-code {
-    background-color: #f4f4f4;
-    border: 1px solid #ddd;
-    padding: 5px;
-    display: block;
-    overflow-x: auto;
-    margin: 10px 0;
-}
